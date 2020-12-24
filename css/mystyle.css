@@ -1,0 +1,104 @@
+.img-fluid {
+  max-width: 45%;
+  height: auto;
+}
+.nav
+{
+  height: 10%;
+}
+.w-40{
+  width: 35%;
+  height: auto;
+}
+.w-48{
+  width: 48%;
+  height: auto;
+}
+.w-4{
+  width: 4%;
+  height: auto;
+}
+.w-15{
+  width: 15%;
+  height: auto;
+}
+.w-85{
+  width: 85%;
+  height: auto;
+}
+#ParentIMG{
+  width: 55%;
+  height: auto;
+}
+.absolute{
+  position: absoulte;
+}
+
+
+.grade-label {
+  height: 40px;
+  border-radius: 8px;
+  display: flex;
+  -webkit-align-items:center;
+  -webkit-justify-content: center;
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 1.06;
+  margin-right: 8px;
+  margin-bottom: 8px;
+  box-shadow: 0 2px 0 0 #e1e1e1;
+  border: solid 1px #e1e1e1;
+  background-color: #ffffff;
+  cursor: pointer;
+}
+
+.student-grades-holder {
+  margin-top: 1%;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+}
+.grade-holder {
+  flex-basis: 20%;
+  width: 20%;
+}
+.grade-label.selected {
+  box-shadow: 0 2px 0 0 #ffa526;
+  border: solid 1px #ffa526;
+  background-color: #fff2e0;
+}
+.grade-label.marg-right-zero {
+  margin-right: 0px;
+}
+.phone-code
+{
+  border-width: 0px;
+}
+.whatapp-seperator {
+  height: 1px;
+  background-color: #e5e5e5;
+}
+
+
+
+#JoinBtn
+{
+    border-radius: 8px;
+    
+    width: auto;  
+    height: auto;
+   
+    margin-right: 23%;
+    background-color:rgba(255,255,255, 0);
+    border: solid 1.5px  #e25a15;
+    font-size: auto;
+    text-transform: uppercase;
+    cursor: pointer;
+    color: #e25a15;
+    
+}
+
+
+.clr-wt{
+  background-color: #ffffff;
+}
+

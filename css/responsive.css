@@ -1,0 +1,53 @@
+@media(max-width:1920px){
+    .form{
+        position: absolute;
+        top: 20%;
+        left: 53%;
+        width:auto; 
+        height: auto;
+        background-color: #ffffff;
+        border-radius: 10px;
+        border: 2px solid #020202;
+    }
+    #radioBtn
+    {
+        width: 35%;
+        height: auto;
+    }
+}
+@media(max-width:540px){
+    .form{
+        position: relative;
+        width: 95%;
+        height: 100%; 
+        float: center;
+        top: 0%;
+        left: 0%;
+        margin-left: 2%;
+        margin-right: 2%;
+        border-radius: 10px;
+        background-color: #ffffff;
+        border: 2px solid #020202;
+    }
+}
+}
+@media(max-width:361px){
+    .form{
+        position: relative;
+        width: 95%;
+        height: 100%; 
+        float: center;
+        top: 0%;
+        left: 0%;
+        margin-left: 2%;
+        margin-right: 2%;
+        border-radius: 10px;
+        background-color: #ffffff;
+        border: 2px solid #020202;
+    }
+    #radioBtn
+    {
+        width: 50%;
+        height: auto;
+    }
+}
